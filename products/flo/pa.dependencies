@@ -18,9 +18,15 @@
         "revision":     "marshmallow"
     },
     {
-        "remote":       "aosp",
-        "repository":   "platform/hardware/qcom/audio",
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
-        "revision":     "refs/tags/android-6.0.1_r59"
+        "revision":     "nougat"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_gps",
+        "target_path":  "hardware/qcom/gps",
+        "revision":     "nougat"
     }
 ]
